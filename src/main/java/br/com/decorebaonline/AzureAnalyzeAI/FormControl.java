@@ -42,8 +42,8 @@ import javax.swing.filechooser.FileFilter;
  */
 public class FormControl extends javax.swing.JFrame {
 
-    private static final String endpoint = "https://reconhece-documentos.cognitiveservices.azure.com/";
-    private static final String key = "4Df47r2vZ3QpUqcPlJm7kxVINUFiRnXtlUygaYXIcEZ3cZV0b0zVJQQJ99AKACYeBjFXJ3w3AAALACOGxrfK";
+    private static final String endpoint = "<YOUR ENDPOINT>";
+    private static final String key = "<YOUR KEY>";
     private SwingController controller;
     private JPanel viewerComponentPanel;
     private Integer Rows = 0;
